@@ -15,9 +15,11 @@ Get-Help Create-Projects -Examples
 #
 Get-Help Create-Projects -Full
 #
-Example1:
+Example 1:
 Create-Projects -ProjectStart 1 -ProjectEnd 3 -PhaseStart 1 -PhaseEnd 2 -Verbose
 #
-Example2:
+Example 2:
 Create-Projects -Project WSA -Phase M- -ProjectStart 1 -ProjectEnd 7 -PhaseStart 1 -PhaseEnd 5 -Verbose
+#
+Source file: Create-Projects.ps1
 # Author: Panayot Petrov
